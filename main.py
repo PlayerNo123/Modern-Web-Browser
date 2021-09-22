@@ -2,13 +2,12 @@
 import os
 import sys
 
-# pip install PyQt5
-from PyQt5.QtCore import *
-from PyQt5.QtWidgets import *
+from PyQt5.QtCore import * # pip install PyQt5
+from PyQt5.QtWidgets import * # pip install
 from PyQt5.QtGui import *
 
 # WEB ENGINE( pip install PyQtWebEngine)
-from PyQt5.QtWebEngineWidgets import *
+from PyQt5.QtWebEngineWidgets import * # pip install PyQtWebEngine
 
 # MAIN WINDOW
 class MainWindow(QMainWindow):
