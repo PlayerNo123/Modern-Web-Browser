@@ -3,7 +3,7 @@ import os
 import sys
 
 from PyQt5.QtCore import * # pip install PyQt5
-from PyQt5.QtWidgets import * # pip install
+from PyQt5.QtWidgets import * 
 from PyQt5.QtGui import *
 
 # WEB ENGINE( pip install PyQtWebEngine)
